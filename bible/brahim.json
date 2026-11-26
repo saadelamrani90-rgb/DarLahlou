@@ -29,7 +29,14 @@
   },
   "demarche": "À DÉFINIR avec Saad",
   "tics": "À DÉFINIR avec Saad",
-  "catchphrase": "À DÉFINIR avec Saad",
+  "catchphrase": {
+    "principale": {
+      "arabe": "تفو !",
+      "latin": "Tfou !",
+      "sens": "Son « D'oh » : quand tout tourne mal (validé par Saad)"
+    },
+    "autres": "À choisir par Saad selon le métier retenu"
+  },
   "relations": {
     "fatema_zohra": "épouse",
     "yassine": "fils",
