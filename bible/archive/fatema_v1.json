@@ -1,0 +1,41 @@
+{
+  "id": "fatema",
+  "version": "v1",
+  "status": "proposition, à valider par Saad",
+  "nom": "Lalla Fatema-Zohra",
+  "age": 45,
+  "role": "Mère, ciment du foyer, devient mom-influenceuse",
+  "descripteur_visuel": "Silhouette ronde et stable en cloche (gandoura longue jusqu'au sol), foulard safran qui encadre le visage, téléphone en coque turquoise toujours dans la main droite, babouches jaunes, joues rosées, sourcils arqués.",
+  "palette_hex": {
+    "dominante_1_foulard": "#E9A93B",
+    "dominante_2_gandoura": "#8FCFB0",
+    "dominante_3_galons_telephone": "#2C8C99",
+    "peau": "#B97A52",
+    "accents": {
+      "babouches": "#F2D25C",
+      "joues": "#D9806A",
+      "bouche": "#9E3A34"
+    }
+  },
+  "proportions": {
+    "hauteur_totale_unites": 1.81,
+    "rayon_tete": 0.28
+  },
+  "demarche": "À DÉFINIR avec Saad",
+  "tics": "À DÉFINIR avec Saad",
+  "catchphrase": "À DÉFINIR avec Saad",
+  "relations": {
+    "brahim": "époux",
+    "yassine": "fils",
+    "salma": "fille",
+    "meryem": "fille"
+  },
+  "interdits": [
+    "jamais sans son téléphone",
+    "ne change jamais de proportions ni de couleurs"
+  ],
+  "voix": {
+    "phase_A": "synthèse gratuite temporaire",
+    "voice_id": null
+  }
+}
