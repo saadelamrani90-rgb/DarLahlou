@@ -1,0 +1,42 @@
+{
+  "id": "lhssen",
+  "version": "v1",
+  "status": "proposition, à valider par Saad",
+  "nom": "Si Lhssen",
+  "age": "cinquantaine",
+  "role": "Semsar (intermédiaire), roi de la marge",
+  "descripteur_visuel": "Grand et maigre, costume camel beaucoup trop grand (épaules qui débordent, manches qui cachent les mains, pantalon qui tire-bouchonne sur les chaussures), chemise bordeaux ouverte, chaîne dorée, cheveux gominés, fine moustache crayon, paupières mi-closes (regard malin), lunettes noires relevées sur le front, trois téléphones (un à l'oreille, un dans la main, un dans la poche).",
+  "palette_hex": {
+    "dominante_1_costume": "#B8925A",
+    "dominante_2_chemise": "#7A2632",
+    "dominante_3_cheveux_chaussures": "#1C1716",
+    "peau": "#C48A60",
+    "accents": {
+      "chaine_or": "#D9B44A",
+      "lunettes": "#121212",
+      "telephones": [
+        "#2B2B2B",
+        "#C8C8C8",
+        "#E9A93B"
+      ]
+    }
+  },
+  "proportions": {
+    "hauteur_totale_unites": 2.0,
+    "rayon_tete": 0.26
+  },
+  "demarche": "À DÉFINIR avec Saad",
+  "tics": "À DÉFINIR avec Saad",
+  "catchphrase": "« Machi mochkil. Kolchi f l'qanoun. » (pilote, à confirmer)",
+  "relations": {
+    "brahim": "pousse Brahim à stocker"
+  },
+  "interdits": [
+    "ne ressemble à aucune personnalité réelle",
+    "ne change jamais de proportions ni de couleurs"
+  ],
+  "voix": {
+    "phase_A": "synthèse gratuite temporaire",
+    "voice_id": null
+  }
+}

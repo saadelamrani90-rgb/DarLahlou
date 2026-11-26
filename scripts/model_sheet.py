@@ -24,10 +24,10 @@ root = mod.build()
 
 cam_data = bpy.data.cameras.new("cam")
 cam_data.type = "ORTHO"
-cam_data.ortho_scale = 2.3
+cam_data.ortho_scale = 2.5
 cam = bpy.data.objects.new("cam", cam_data)
 scene.collection.objects.link(cam)
-cam.location = (0, -10, 0.95)
+cam.location = (0, -10, 1.07)
 cam.rotation_euler = (math.radians(90), 0, 0)
 scene.camera = cam
 
@@ -57,7 +57,7 @@ labels = ["FACE", "3/4", "PROFIL", "DOS", "SILHOUETTE"]
 inputs, filters = [], []
 for i, (p, lab) in enumerate(zip(paths, labels)):
     inputs += ["-i", p]
-    dt = f"drawtext=fontfile={font}:text='{lab}':x=(w-tw)/2:y=40:fontsize=34:fontcolor=0x3A2A1E" if os.path.exists(font) else "null"
+    dt = f"drawtext=fontfile={font}:text='{lab}':x=(w-tw)/2:y=24:fontsize=30:fontcolor=0x3A2A1E" if os.path.exists(font) else "null"
     filters.append(f"[{i}:v]{dt}[v{i}]")
 filters.append("".join(f"[v{i}]" for i in range(len(paths))) + f"hstack=inputs={len(paths)}[out]")
 subprocess.run(["ffmpeg", "-y", "-loglevel", "error", *inputs, "-filter_complex", ";".join(filters),

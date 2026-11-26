@@ -33,7 +33,7 @@ def build(loc=(0, 0, 0)):
     pen_r = T.toon("br_stylo_rouge", acc["stylo_rouge"], levels=2)
     button = T.toon("br_bouton", "#F7F3EA", levels=2)
 
-    root = T.empty("brahim_root", loc)
+    root = T.empty("brahim_root", (0, 0, 0))
     body = T.empty("brahim_corps", (0, 0, 0), root)
 
     # --- corps en poire : chemise en haut, pantalon en bas
@@ -103,6 +103,7 @@ def build(loc=(0, 0, 0)):
         t = -1 + 2 * i / (n - 1)
         pts.append((0.21 * t, -0.315 + 0.13 * t * t, hz - 0.1 - 0.075 * t * t, 1.0 - 0.45 * t * t))
     T.tube("br_moustache", hair, pts, 0.055, parent=head, width=0.008)
+    root.location = loc  # placé après construction : les pièces suivent
     return root
 
 
