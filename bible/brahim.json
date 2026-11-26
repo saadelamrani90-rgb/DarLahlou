@@ -1,0 +1,24 @@
+{
+  "id": "brahim",
+  "version": "v1",
+  "status": "proposition, à valider par Saad",
+  "nom": "Hajj Brahim Lahlou",
+  "age": 48,
+  "role": "Père, fonctionnaire communal, rêveur aux « idées de business »",
+  "descripteur_visuel": "Silhouette en poire, grosse tête ronde, crâne dégarni avec couronne de cheveux noirs sur les côtés, moustache épaisse (jamais sans), sourcils épais, gros nez rond, chemise bleu ciel trop serrée (boutons tendus) à manches courtes avec deux stylos dans la poche, ceinture, pantalon brun, chaussures marron.",
+  "palette_hex": {
+    "dominante_1_chemise": "#BFDCE6",
+    "dominante_2_pantalon": "#6E5640",
+    "dominante_3_moustache_cheveux": "#2B1B12",
+    "peau": "#C98B5F",
+    "accents": { "stylo_bleu": "#2E5FA8", "stylo_rouge": "#C23B2E", "ceinture": "#3A2A1E", "chaussures": "#4A3020" }
+  },
+  "proportions": { "hauteur_totale_unites": 1.78, "rayon_tete": 0.3, "tetes_de_haut": 3.0 },
+  "vetements": { "semaine": "chemise bleu ciel serrée + pantalon brun", "week_end": "djellaba grise (phase B)" },
+  "demarche": "À DÉFINIR avec Saad",
+  "tics": "À DÉFINIR avec Saad",
+  "catchphrase": "À DÉFINIR avec Saad",
+  "relations": { "fatema_zohra": "épouse", "yassine": "fils", "salma": "fille", "meryem": "fille", "hajj_mimoun": "père", "si_lhssen": "tentateur, semsar" },
+  "interdits": ["jamais sans moustache", "ne change jamais de proportions ni de couleurs d'un plan à l'autre"],
+  "voix": { "phase_A": "synthèse gratuite temporaire", "voice_id": null }
+}
