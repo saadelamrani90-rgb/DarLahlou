@@ -1,4 +1,4 @@
-"""Construit Hajj Brahim Lahlou (v1) à partir de bible/brahim.json.
+"""Construit Hajj Brahim Slimani (v1) à partir de bible/brahim.json.
 
 Hiérarchie = rig minimal par objets (pas d'armature) :
   brahim_root > corps > tete > (yeux, bouche, sourcils, moustache)
