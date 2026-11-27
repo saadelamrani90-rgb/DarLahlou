@@ -1,0 +1,8 @@
+{
+  "id": "marche_de_gros",
+  "version": "v1",
+  "status": "validé par Saad (v1), verrouillé",
+  "nom": "INT. MARCHÉ DE GROS, MATIN",
+  "script": "scripts/set_marche.py",
+  "rendu_reference": "render/sets/marche_v1.png"
+}
