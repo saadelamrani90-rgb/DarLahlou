@@ -1,7 +1,7 @@
 {
   "scene": "INT. MARCHÉ DE GROS, MATIN",
   "version": "v3",
-  "statut": "proposition, à relire et valider par Saad AVANT toute synthèse vocale (v2 jugée décousue)",
+  "statut": "validé par Saad (v3) ; voix témoin edge-tts",
   "fil": [
     "1. Découverte : Brahim trouve la tomate à 3 DH alors que l'épicier du derb la vend 10 DH.",
     "2. Explication : Si Lhssen lui explique les 7 DH d'écart : cinq intermédiaires qui « touchent » la tomate. Gag de la classe affaires.",
@@ -9,62 +9,115 @@
     "4. Chute : Brahim pense à l'argent du matelas, au même instant Fatema-Zohra appelle pour lui interdire d'y toucher. Tfou. Si Lhssen conclut."
   ],
   "repliques": [
-    {"id": "L1", "perso": "brahim", "jeu": "chuchoté, il croit avoir découvert un secret (plan A01 validé)",
-     "arabe": "آش هادا؟ الماطيشا بثلاثة دراهم الكيلو؟ هنا فالمارشي؟",
-     "latin": "Ach hada ? L'maticha b 3 dirhams l'kilo ? Hna f l'marché ?",
-     "fr": "C'est quoi ça ? La tomate à 3 dirhams le kilo ? Ici, au marché ?"},
-    {"id": "L2", "perso": "brahim", "jeu": "toujours chuchoté, scandalisé",
-     "arabe": "وسي مصطفى فالدرب كيبيعها ليا بعشرة... عشرة!",
-     "latin": "W Si Mustapha f derb kaybi3ha liya b 3achra... 3achra !",
-     "fr": "Et Si Mustapha, au derb, me la vend à dix... dix !"},
-    {"id": "L3", "perso": "lhssen", "jeu": "surgit derrière lui (Brahim sursaute), téléphone à l'oreille",
-     "arabe": "سي مصطفى مسكين، ماشي هو. هادي... لوجيستيك.",
-     "latin": "Si Mustapha meskin, machi howa. Hadi... logistique.",
-     "fr": "Si Mustapha, le pauvre, ce n'est pas lui. Ça... c'est la logistique."},
-    {"id": "L4", "perso": "brahim",
-     "arabe": "لوجيستيك؟",
-     "latin": "Logistique ?",
-     "fr": "La logistique ?"},
-    {"id": "L5", "perso": "lhssen", "jeu": "compte sur ses doigts",
-     "arabe": "الفلاح، الكاميو، أنا، الگروسيست، سي مصطفى. خمسة. كل واحد كيقيس الماطيشا، كيزيد درهم وشوية.",
-     "latin": "L'fellah, l'camion, ana, l'grossiste, Si Mustapha. Khamsa. Koul wa7ed kayqiss l'maticha, kayzid derhem w chwiya.",
-     "fr": "Le fellah, le camion, moi, le grossiste, Si Mustapha. Cinq. Chacun qui touche la tomate ajoute un dirham et des poussières."},
-    {"id": "L6", "perso": "brahim",
-     "arabe": "سبعة دراهم ديال اللوجيستيك؟! واش الماطيشا كتسافر فبيزنس كلاس؟",
-     "latin": "Sb3a d'drahem d'logistique ?! Wach l'maticha katsafer f business class ?",
-     "fr": "Sept dirhams de logistique ?! La tomate voyage en classe affaires ?",
-     "gag": "CUT : une tomate en costume et lunettes noires, en classe affaires, baisse ses lunettes vers la caméra"},
-    {"id": "L7", "perso": "brahim", "jeu": "lentement, une idée lui vient",
-     "arabe": "وقيلا... كل واحد كيقيسها كيربح؟",
-     "latin": "Wa9ila... koul wa7ed kayqisha kayrba7 ?",
-     "fr": "Attends... chacun qui la touche gagne de l'argent ?"},
-    {"id": "L8", "perso": "lhssen",
-     "arabe": "كل واحد.",
-     "latin": "Koul wa7ed.",
-     "fr": "Chacun."},
-    {"id": "L9", "perso": "brahim", "jeu": "grand sourire, sûr de son génie (logique absurde)",
-     "arabe": "إيوا أنا غادي نقيسها... بزاف.",
-     "latin": "Iwa ana ghadi nqisha... bzzaf.",
-     "fr": "Eh bien moi, je vais la toucher... beaucoup."},
-    {"id": "L10", "perso": "lhssen", "jeu": "se penche, confidentiel",
-     "arabe": "ستوكي دابا. السيمانة الجاية غادي تولي دهب حمر. شحال عندك؟",
-     "latin": "Stocki daba. Simana jaya ghadi twlli dheb 7mer. Ch7al 3ndek ?",
-     "fr": "Stocke maintenant. La semaine prochaine, elle sera de l'or rouge. Tu as combien ?"},
-    {"id": "L11", "perso": "brahim", "jeu": "rêveur, il calcule à voix haute",
-     "arabe": "عندي... الفلوس ديال الماطلة...",
-     "latin": "3ndi... l'flouss dyal l'matela...",
-     "fr": "J'ai... l'argent du matelas..."},
-    {"id": "L12", "perso": "fatema", "jeu": "son téléphone vibre AU MÊME INSTANT, « LALLA » à l'écran ; off",
-     "arabe": "إبراهيم! ما تقيسش الفلوس ديال الماطلة، سمعتي؟!",
-     "latin": "Brahim ! Ma tqissch l'flouss dyal l'matela, sme3ti ?!",
-     "fr": "Brahim ! Ne touche pas à l'argent du matelas, tu m'entends ?!"},
-    {"id": "L13", "perso": "brahim", "jeu": "retourne le téléphone face contre la caisse, tout bas",
-     "arabe": "تفو...",
-     "latin": "Tfou...",
-     "fr": "(sa catchphrase)"},
-    {"id": "L14", "perso": "lhssen", "jeu": "lui serre la main, très sérieux",
-     "arabe": "ماشي مشكل. كلشي فالقانون.",
-     "latin": "Machi mochkil. Kolchi f l'qanoun.",
-     "fr": "Pas de problème. Tout est dans la loi."}
+    {
+      "id": "L1",
+      "perso": "brahim",
+      "jeu": "chuchoté, il croit avoir découvert un secret (plan A01 validé)",
+      "arabe": "آش هادا؟ الماطيشا بثلاثة دراهم الكيلو؟ هنا فالمارشي؟",
+      "latin": "Ach hada ? L'maticha b 3 dirhams l'kilo ? Hna f l'marché ?",
+      "fr": "C'est quoi ça ? La tomate à 3 dirhams le kilo ? Ici, au marché ?"
+    },
+    {
+      "id": "L2",
+      "perso": "brahim",
+      "jeu": "toujours chuchoté, scandalisé",
+      "arabe": "وسي مصطفى فالدرب كيبيعها ليا بعشرة... عشرة!",
+      "latin": "W Si Mustapha f derb kaybi3ha liya b 3achra... 3achra !",
+      "fr": "Et Si Mustapha, au derb, me la vend à dix... dix !"
+    },
+    {
+      "id": "L3",
+      "perso": "lhssen",
+      "jeu": "surgit derrière lui (Brahim sursaute), téléphone à l'oreille",
+      "arabe": "سي مصطفى مسكين، ماشي هو. هادي... لوجيستيك.",
+      "latin": "Si Mustapha meskin, machi howa. Hadi... logistique.",
+      "fr": "Si Mustapha, le pauvre, ce n'est pas lui. Ça... c'est la logistique."
+    },
+    {
+      "id": "L4",
+      "perso": "brahim",
+      "arabe": "لوجيستيك؟",
+      "latin": "Logistique ?",
+      "fr": "La logistique ?"
+    },
+    {
+      "id": "L5",
+      "perso": "lhssen",
+      "jeu": "compte sur ses doigts",
+      "arabe": "الفلاح، الكاميو، أنا، الگروسيست، سي مصطفى. خمسة. كل واحد كيقيس الماطيشا، كيزيد درهم وشوية.",
+      "latin": "L'fellah, l'camion, ana, l'grossiste, Si Mustapha. Khamsa. Koul wa7ed kayqiss l'maticha, kayzid derhem w chwiya.",
+      "fr": "Le fellah, le camion, moi, le grossiste, Si Mustapha. Cinq. Chacun qui touche la tomate ajoute un dirham et des poussières."
+    },
+    {
+      "id": "L6",
+      "perso": "brahim",
+      "arabe": "سبعة دراهم ديال اللوجيستيك؟! واش الماطيشا كتسافر فبيزنس كلاس؟",
+      "latin": "Sb3a d'drahem d'logistique ?! Wach l'maticha katsafer f business class ?",
+      "fr": "Sept dirhams de logistique ?! La tomate voyage en classe affaires ?",
+      "gag": "CUT : une tomate en costume et lunettes noires, en classe affaires, baisse ses lunettes vers la caméra"
+    },
+    {
+      "id": "L7",
+      "perso": "brahim",
+      "jeu": "lentement, une idée lui vient",
+      "arabe": "وقيلا... كل واحد كيقيسها كيربح؟",
+      "latin": "Wa9ila... koul wa7ed kayqisha kayrba7 ?",
+      "fr": "Attends... chacun qui la touche gagne de l'argent ?"
+    },
+    {
+      "id": "L8",
+      "perso": "lhssen",
+      "arabe": "كل واحد.",
+      "latin": "Koul wa7ed.",
+      "fr": "Chacun."
+    },
+    {
+      "id": "L9",
+      "perso": "brahim",
+      "jeu": "grand sourire, sûr de son génie (logique absurde)",
+      "arabe": "إيوا أنا غادي نقيسها... بزاف.",
+      "latin": "Iwa ana ghadi nqisha... bzzaf.",
+      "fr": "Eh bien moi, je vais la toucher... beaucoup."
+    },
+    {
+      "id": "L10",
+      "perso": "lhssen",
+      "jeu": "se penche, confidentiel",
+      "arabe": "ستوكي دابا. السيمانة الجاية غادي تولي دهب حمر. شحال عندك؟",
+      "latin": "Stocki daba. Simana jaya ghadi twlli dheb 7mer. Ch7al 3ndek ?",
+      "fr": "Stocke maintenant. La semaine prochaine, elle sera de l'or rouge. Tu as combien ?"
+    },
+    {
+      "id": "L11",
+      "perso": "brahim",
+      "jeu": "rêveur, il calcule à voix haute",
+      "arabe": "عندي... الفلوس ديال الماطلة...",
+      "latin": "3ndi... l'flouss dyal l'matela...",
+      "fr": "J'ai... l'argent du matelas..."
+    },
+    {
+      "id": "L12",
+      "perso": "fatema",
+      "jeu": "son téléphone vibre AU MÊME INSTANT, « LALLA » à l'écran ; off",
+      "arabe": "إبراهيم! ما تقيسش الفلوس ديال الماطلة، سمعتي؟!",
+      "latin": "Brahim ! Ma tqissch l'flouss dyal l'matela, sme3ti ?!",
+      "fr": "Brahim ! Ne touche pas à l'argent du matelas, tu m'entends ?!"
+    },
+    {
+      "id": "L13",
+      "perso": "brahim",
+      "jeu": "retourne le téléphone face contre la caisse, tout bas",
+      "arabe": "تفو...",
+      "latin": "Tfou...",
+      "fr": "(sa catchphrase)"
+    },
+    {
+      "id": "L14",
+      "perso": "lhssen",
+      "jeu": "lui serre la main, très sérieux",
+      "arabe": "ماشي مشكل. كلشي فالقانون.",
+      "latin": "Machi mochkil. Kolchi f l'qanoun.",
+      "fr": "Pas de problème. Tout est dans la loi."
+    }
   ]
 }

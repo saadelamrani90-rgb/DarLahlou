@@ -1,0 +1,138 @@
+{
+  "version": "t1",
+  "fps": 24,
+  "frames": 2145,
+  "duree_s": 89.38,
+  "plans": [
+    {
+      "camera": "A_gp_brahim",
+      "debut_s": 0.04
+    },
+    {
+      "camera": "B_deux",
+      "debut_s": 13.88
+    },
+    {
+      "camera": "C_lhssen",
+      "debut_s": 24.92
+    },
+    {
+      "camera": "D_brahim",
+      "debut_s": 38.25
+    },
+    {
+      "camera": "G_avion",
+      "debut_s": 46.04
+    },
+    {
+      "camera": "B_deux",
+      "debut_s": 49.04
+    },
+    {
+      "camera": "C_lhssen",
+      "debut_s": 61.54
+    },
+    {
+      "camera": "D_brahim",
+      "debut_s": 70.25
+    },
+    {
+      "camera": "E_insert_tel",
+      "debut_s": 74.67
+    },
+    {
+      "camera": "D_brahim",
+      "debut_s": 81.17
+    },
+    {
+      "camera": "B_deux",
+      "debut_s": 83.38
+    }
+  ],
+  "sous_titres": [
+    [
+      0.5416666666666666,
+      7.75,
+      "Ach hada ? L'maticha b 3 dirhams l'kilo ? Hna f l'marché ?",
+      "C'est quoi ça ? La tomate à 3 dirhams le kilo ? Ici, au marché ?"
+    ],
+    [
+      8.083333333333334,
+      13.541666666666666,
+      "W Si Mustapha f derb kaybi3ha liya b 3achra... 3achra !",
+      "Et Si Mustapha, au derb, me la vend à dix... dix !"
+    ],
+    [
+      14.625,
+      22.291666666666668,
+      "Si Mustapha meskin, machi howa. Hadi... logistique.",
+      "Si Mustapha, le pauvre, ce n'est pas lui. Ça... c'est la logistique."
+    ],
+    [
+      22.625,
+      24.583333333333332,
+      "Logistique ?",
+      "La logistique ?"
+    ],
+    [
+      24.916666666666668,
+      37.916666666666664,
+      "L'fellah, l'camion, ana, l'grossiste, Si Mustapha. Khamsa. Koul wa7ed kayqiss l'maticha, kayzid derhem w chwiya.",
+      "Le fellah, le camion, moi, le grossiste, Si Mustapha. Cinq. Chacun qui touche la tomate ajoute un dirham et des poussières."
+    ],
+    [
+      38.25,
+      45.708333333333336,
+      "Sb3a d'drahem d'logistique ?! Wach l'maticha katsafer f business class ?",
+      "Sept dirhams de logistique ?! La tomate voyage en classe affaires ?"
+    ],
+    [
+      49.041666666666664,
+      54.083333333333336,
+      "Wa9ila... koul wa7ed kayqisha kayrba7 ?",
+      "Attends... chacun qui la touche gagne de l'argent ?"
+    ],
+    [
+      54.416666666666664,
+      56.625,
+      "Koul wa7ed.",
+      "Chacun."
+    ],
+    [
+      56.958333333333336,
+      61.208333333333336,
+      "Iwa ana ghadi nqisha... bzzaf.",
+      "Eh bien moi, je vais la toucher... beaucoup."
+    ],
+    [
+      61.541666666666664,
+      69.91666666666667,
+      "Stocki daba. Simana jaya ghadi twlli dheb 7mer. Ch7al 3ndek ?",
+      "Stocke maintenant. La semaine prochaine, elle sera de l'or rouge. Tu as combien ?"
+    ],
+    [
+      70.25,
+      74.33333333333333,
+      "3ndi... l'flouss dyal l'matela...",
+      "J'ai... l'argent du matelas..."
+    ],
+    [
+      75.08333333333333,
+      80.91666666666667,
+      "Brahim ! Ma tqissch l'flouss dyal l'matela, sme3ti ?!",
+      "Brahim ! Ne touche pas à l'argent du matelas, tu m'entends ?!"
+    ],
+    [
+      81.16666666666667,
+      83.04166666666667,
+      "Tfou...",
+      "(sa catchphrase)"
+    ],
+    [
+      83.375,
+      88.125,
+      "Machi mochkil. Kolchi f l'qanoun.",
+      "Pas de problème. Tout est dans la loi."
+    ]
+  ]
+}

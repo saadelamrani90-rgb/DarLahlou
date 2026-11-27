@@ -1,5 +1,5 @@
 """Génère les pistes témoin (edge-tts) + les visèmes Rhubarb pour une scène.
-Usage : python scripts/voices_tts.py storyboard/scene_A_dialogue.json
+Usage : python scripts/voices_tts.py storyboard/scene_A_dialogue.json [dossier_audio]
 Sorties : audio/scene_A/<id>.wav et <id>.json (repères de bouche A..H, X)."""
 import json, os, subprocess, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -10,7 +10,7 @@ VOICES = {  # réglages témoin : à remplacer par les vocaux de Saad
 }
 RHUBARB = os.path.join(ROOT, "tools", "Rhubarb-Lip-Sync-1.14.0-Linux", "rhubarb")
 src = json.load(open(sys.argv[1]))
-out = os.path.join(ROOT, "audio", "scene_A")
+out = os.path.join(ROOT, "audio", sys.argv[2] if len(sys.argv) > 2 else "scene_A")
 os.makedirs(out, exist_ok=True)
 env = dict(os.environ, SSL_CERT_FILE="/root/.ccr/ca-bundle.crt")
 for r in src["repliques"]:

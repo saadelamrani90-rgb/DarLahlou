@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/home/user/dar-lahlou/audio/scene_A_v3/L8.wav",
+    "duration": 2.20
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.19, "value": "X" },
+    { "start": 0.19, "end": 0.23, "value": "B" },
+    { "start": 0.23, "end": 0.35, "value": "F" },
+    { "start": 0.35, "end": 0.41, "value": "E" },
+    { "start": 0.41, "end": 0.62, "value": "H" },
+    { "start": 0.62, "end": 0.76, "value": "C" },
+    { "start": 0.76, "end": 1.11, "value": "B" },
+    { "start": 1.11, "end": 2.20, "value": "X" }
+  ]
+}
