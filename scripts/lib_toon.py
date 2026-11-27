@@ -1,4 +1,4 @@
-"""Bibliothèque commune Dar Lahlou : matériaux toon, contours, primitives.
+"""Bibliothèque commune Dar Slimani : matériaux toon, contours, primitives.
 
 Le cel shading est simulé par une émission (aucune vraie lumière) : la couleur
 dépend du produit scalaire entre la normale et une direction de lumière FIXE.
