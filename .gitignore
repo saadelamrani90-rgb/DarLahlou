@@ -2,3 +2,4 @@ render/tests/
 render/frames/
 *.blend1
 __pycache__/
+tools/

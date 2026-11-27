@@ -50,7 +50,8 @@
     "ne change jamais de proportions ni de couleurs d'un plan à l'autre"
   ],
   "voix": {
-    "phase_A": "synthèse gratuite temporaire",
+    "phase_A": "edge-tts ar-MA (piste témoin, jugée faible par Saad)",
+    "finale": "enregistrements vocaux fournis par Saad (à venir), remplacent la synthèse",
     "voice_id": null
   }
 }
